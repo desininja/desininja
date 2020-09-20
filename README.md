@@ -1,4 +1,5 @@
-[![LinkedIN](https://github.com/desininja/logos/Popular_Social_Media-22-512.png)](https://www.linkedin.com/in/himanshu-bhatt-60513856/)
+[![LinkedIN](https://github.com/desininja/logos/blob/master/Popular_Social_Media-22-512.png)](https://www.linkedin.com/in/himanshu-bhatt-60513856/) 
+
 
 ### Hi there 👋
 
