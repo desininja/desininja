@@ -1,5 +1,4 @@
-[![LinkedIN](https://github.com/desininja/logos/blob/master/Popular_Social_Media-22-512.png)](https://www.linkedin.com/in/himanshu-bhatt-60513856/) [![Kaggle](https://github.com/desininja/logos/blob/master/kaggle%201.png)](https://www.kaggle.com/junglisher) [![gmail](https://github.com/desininja/logos/blob/master/gmail%20logo.png)](himanshubhatt06@gmail.com)
-[![Tableau](https://github.com/desininja/logos/blob/master/image.png)](https://public.tableau.com/profile/himanshu.bhatt)
+[![LinkedIN](https://github.com/desininja/logos/blob/master/Popular_Social_Media-22-512.png)](https://www.linkedin.com/in/himanshu-bhatt-60513856/) [![Kaggle](https://github.com/desininja/logos/blob/master/kaggle%201.png)](https://www.kaggle.com/junglisher) [![gmail](https://github.com/desininja/logos/blob/master/gmail%20logo.png)](himanshubhatt06@gmail.com)[![Tableau](https://github.com/desininja/logos/blob/master/image.png)](https://public.tableau.com/profile/himanshu.bhatt)
 
 
 ### Hi there 👋
