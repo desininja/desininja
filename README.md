@@ -8,7 +8,3 @@
 - 👯 I’m looking to collaborate on Data Science and ML Projects.
 - 💬 Ask me about Statistics, ML, Data science.
 - 📫 How to reach me: Write me here [himanshubhatt06@gmail.com]
-
-
-
-
