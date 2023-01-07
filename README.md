@@ -1,4 +1,4 @@
-[![LinkedIN](https://github.com/desininja/logos/blob/f45df45cb4bf2a1f1b487e7c6b9ff431a15fdaec/Popular_Social_Media-22-512.png)](https://www.linkedin.com/in/himanshu-bhatt-60513856/) [![Kaggle](https://github.com/desininja/logos/blob/master/kaggle%201.png)](https://www.kaggle.com/junglisher) [![Tableau](https://github.com/desininja/logos/blob/master/tableau%20icon.png)](https://public.tableau.com/profile/himanshu.bhatt)
+[![LinkedIN](https://www.linkedin.com/in/himanshu-bhatt-60513856/) [![Kaggle](https://github.com/desininja/logos/blob/master/kaggle%201.png)](https://www.kaggle.com/junglisher) [![Tableau](https://github.com/desininja/logos/blob/master/tableau%20icon.png)](https://public.tableau.com/profile/himanshu.bhatt)
 
 
 ### Hi there 👋
