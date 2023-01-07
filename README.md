@@ -1,4 +1,5 @@
-[![LinkedIN](https://www.linkedin.com/in/himanshu-bhatt-60513856/) [![Kaggle](https://github.com/desininja/logos/blob/master/kaggle%201.png)](https://www.kaggle.com/junglisher) [![Tableau](https://github.com/desininja/logos/blob/master/tableau%20icon.png)](https://public.tableau.com/profile/himanshu.bhatt)
+[![LinkedIN]](https://www.linkedin.com/in/himanshu-bhatt-60513856/)
+[![Kaggle]](https://www.kaggle.com/junglisher) [![Tableau]](https://public.tableau.com/profile/himanshu.bhatt)
 
 
 ### Hi there 👋
