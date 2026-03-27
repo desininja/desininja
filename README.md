@@ -31,8 +31,13 @@ Check out my latest work on building intelligent, autonomous workflows:
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desininja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Himanshu's Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desininja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=desininja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=desininja&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/desininja/desininja/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
@@ -44,7 +49,7 @@ When I'm not optimizing pipelines, I focus on physical discipline through **Fitn
 
 ### 📬 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/himanshu-bhatt-4a1122171/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/himanshubhatt06/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:himanshubhatt06@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.kaggle.com/junglisher" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
